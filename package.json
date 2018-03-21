@@ -1,0 +1,26 @@
+{
+  "name": "daggieblanqx-portifolio",
+  "version": "1.0.0",
+  "description": "This is my (Daggie Blanqx) portifolio website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaggieBlanqx"
+  },
+  "keywords": [
+    "Daggie",
+    "Blanqx"
+  ],
+  "author": "Daggie Blanqx",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}
